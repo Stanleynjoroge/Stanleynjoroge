@@ -14,7 +14,7 @@ I love using modern tech tools to create end-to-end applications and integrate t
 - 🌱 I’m currently learning React
 - 🤔 I’m looking for help with architecting a high-end application   
 - 💬 Ask me about Javascript and React Redux
-- 📫 How to reach me: njorogestanley903@gmail.com 
+- 📫 How to reach me: ngangastanley903@gmail.com 
 - 😄 Pronouns: He 
 - ⚡ Fun fact: Enjoys hiking, cycling, swimming , MONOPOLY
 
